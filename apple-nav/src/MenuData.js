@@ -2,70 +2,70 @@ const MenuData = [
     {
         name: 'Apple',
         path: '/',
-        icon: '',
+        icon: '/images/apple.svg',
         submenu: []
     },
 
     {
         name: 'Mac',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'iPad',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'iPhone',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'Watch',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'TV',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'Music',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'Support',
         path: '/',
-        icon: '',
+        icon: null,
         submenu: []
     },
 
     {
         name: 'Search',
         path: '/',
-        icon: '',
+        icon: '/images/search.svg',
         submenu: []
     },
 
     {
         name: 'Bag',
         path: '/',
-        icon: '',
+        icon: '/images/bag.svg',
         submenu: []
     },
 ]

@@ -2,6 +2,7 @@ import React from 'react';
 import { Route } from 'react-router-dom';
 import Nav from './Nav';
 import MenuData from '../MenuData';
+import './Nav.scss';
 
 const NavWrapper = props => {
 
